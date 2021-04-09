@@ -7,4 +7,4 @@
 # To run the test right click on TC_GR_Cars and run the testcase
 # Or right click on Smoke_test.xml file and click run
 # There is an extent HTML report in the folder HTML_Report (src/main/java/HTML_Report)
-# To view the HTML report, right click on GR_HW_Report.html and click any browers in Open in Broswer option to view the HTML report. 
+# To view the HTML report, right click on GR_HW_Report.html and click any browsers in Open in Browser option to view the HTML report. 
